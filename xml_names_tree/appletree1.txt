@@ -1,0 +1,22 @@
+TestResults -> ResultSet -> SessionAction -> Get Test Voltage
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.01 Prymary Suply\5.2.1 PrimarySupply.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.02 Test Rump Up Suply\5.2.2 Test Ramp PSU.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.03 Mod Test\5.2.3 Test Mode.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.04 Checking Load Capacity of ChargeDischarge Circuits AB\5.2.4 Checking Load Capacity of ChargeDischarge Circuits AB.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.05 Test Connect KPBA\5.2.5 KPBA Connect test.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.06 Test KSU\5.2.6 Test KSU.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.07 Test Own Consumption FCU\5.2.7 Test Own Consumption FCU.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.08 Test Load KSU\5.2.8 Test Load KSU.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.09 OneWire Test\5.2.9 Test OneWire.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.10 CAN Test\5.2.10 CAN Test.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.11 SPI Test\5.2.11 SPI Test.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.12 RS485 Test\5.2.12.2 RS485 Test.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.13 1S ISS Test\5.2.13 1S ISS Test.seq#MainSequence
+TestResults -> ResultSet -> Test -> 5.2.14 Stable Freq Test
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.15 PEC Test\5.2.15 PEC Test.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.16 DD Test\5.2.16 DD test.seq#MainSequence
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.17 Thermo Test\5.2.17 Thermo Test.seq#MainSequence
+TestResults -> ResultSet -> Test -> 5.2.18 Load PO Test
+TestResults -> ResultSet -> TestGroup -> C:\avs\Racks\FCU\FCU_V2_Test_20\5.2.19 Memory Test\5.2.19 Memory Test.seq#MainSequence
+TestResults -> ResultSet -> Test -> 5.2.20 Func Elements Test
+TestResults -> ResultSet -> Test -> 5.2.21 Parity NSS
